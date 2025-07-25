@@ -1,1 +1,1 @@
-# Data-Science-World-Happiness-Report
+Our purpose behind choosing the Happiness index dataset is to analyze various continents and their countries across the world. The inferences we obtained directed us to the regions where the people were satisfied to a great extent with their life in terms of social support, freedom in making life choices, generosity, life ladder, health life expectancy, perception of corruption. This is also reflected in the GDP per capita of the regions. 
